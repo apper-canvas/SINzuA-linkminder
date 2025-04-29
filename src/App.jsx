@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
 import { Sun, Moon } from "lucide-react";
-import Home from "./pages/Home";
+import Home from "./pages/bhushan";
 import NotFound from "./pages/NotFound";
 
 function App() {
