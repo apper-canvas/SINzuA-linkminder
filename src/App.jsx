@@ -32,7 +32,7 @@ function App() {
               L
             </div>
             <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              LinkMinder
+              linkmindpro
             </h1>
           </div>
           
@@ -55,7 +55,7 @@ function App() {
 
       <footer className="bg-white dark:bg-surface-900 border-t border-surface-200 dark:border-surface-800 py-4">
         <div className="container mx-auto px-4 text-center text-sm text-surface-500">
-          &copy; {new Date().getFullYear()} LinkMinder. All rights reserved.
+          &copy; {new Date().getFullYear()} linkmindpro. All rights reserved.
         </div>
       </footer>
     </div>
